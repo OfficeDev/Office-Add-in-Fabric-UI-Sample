@@ -1,4 +1,7 @@
 /**
+ * 
+ * Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See License.txt in the project root.
+ *
  * Dropdown Plugin
  * 
  * Given .ms-Dropdown containers with generic <select> elements inside, this plugin hides the original
