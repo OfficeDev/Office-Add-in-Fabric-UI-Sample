@@ -1,1 +1,1 @@
-# Fabric Sample
+# Office Add-in Fabric UI Sample
