@@ -1,5 +1,5 @@
 # Office Add-in Fabric UI Sample
 
-Illustrates how to use Office UI Fabric in Office Add-Ins. 
+This sample shows how to use [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) in Office Add-Ins. 
 
-For general instructions on using Gabric see: https://msdn.microsoft.com/EN-US/library/office/mt450443.aspx 
+For general information about using Fabric, see [Using Office UI Fabric in Office Add-Ins](https://msdn.microsoft.com/EN-US/library/office/mt450443.aspx). 
