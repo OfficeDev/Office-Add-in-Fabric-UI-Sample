@@ -1,3 +1,6 @@
+<!--*
+* Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See License.txt in the project root.
+-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +16,7 @@
      <script src="Pivot/Jquery.Pivot.js"></script>
      <script src="SearchBox/Jquery.SearchBox.js"></script>
      <script src="Dropdown/Jquery.Dropdown.js"></script>
+     <script src="ListItem/Jquery.ListItem.js"></script>
 	
 	<link href="styles.css" rel="stylesheet" type="text/css" />
 	<script src="script.js" type="text/javascript"></script>
@@ -64,58 +68,56 @@
 			<div class="ms-Dropdown" tabindex="0" style="width:80%">
 			  <i class="ms-Dropdown-caretDown ms-Icon ms-Icon--caretDown"></i>
 			  <select class="ms-Dropdown-select" >
-			    <option>Year2</option>
+			    <option>Year</option>
 			    <option>Publisher</option>
 			    <option>Author</option>
 			  </select>
 			</div>
 </div>
 
+
 <ul class="ms-List">
-  <li class="ms-List-item">
-    <div class="ms-ListItem is-selected">
-      <span class="ms-ListItem-primaryText">Lezama Humberto</span>
-      <span class="ms-ListItem-secondaryText">Customizing CRM</span>
-      <span class="ms-ListItem-tertiaryText">Contoso Publications</span>
-      <span class="ms-ListItem-metaText">2015</span>
-      <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
-      <div class="ms-ListItem-actions">
-      </div>
-    </div>
-  </li>
-   <li class="ms-List-item">
-    <div class="ms-ListItem is-selected">
-      <span class="ms-ListItem-primaryText">Lewis, Lezama et al</span>
-      <span class="ms-ListItem-secondaryText">Electrochemical Studies</span>
-      <span class="ms-ListItem-tertiaryText">Dalton Publications</span>
-      <span class="ms-ListItem-metaText">2013</span>
-      <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
-      <div class="ms-ListItem-actions">
-      </div>
-    </div>
-  </li>
-    <li class="ms-List-item">
-    <div class="ms-ListItem">
-      <span class="ms-ListItem-primaryText">Jimenez, Lezama et al</span>
-      <span class="ms-ListItem-secondaryText">Office Extensibility</span>
-      <span class="ms-ListItem-tertiaryText">Microsoft Press</span>
-      <span class="ms-ListItem-metaText">2012</span>
-      <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
-      <div class="ms-ListItem-actions">
-      </div>
-    </div>
-  </li>
-    <li class="ms-List-item">
-    <div class="ms-ListItem">
-      <span class="ms-ListItem-primaryText">Davids, Lezama et al</span>
-      <span class="ms-ListItem-secondaryText">Professional Office Development</span>
-      <span class="ms-ListItem-tertiaryText">Microsoft Press</span>
-      <span class="ms-ListItem-metaText">2011</span>
-      <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
-      <div class="ms-ListItem-actions">
-      </div>
-    </div>
-  </li>
+<div class="ms-ListItem is-selected is-selectable">
+  <span class="ms-ListItem-primaryText">Lezama Humberto</span>
+  <span class="ms-ListItem-secondaryText">Customizing CRM</span>
+  <span class="ms-ListItem-tertiaryText">Contoso Publications</span>
+  <span class="ms-ListItem-metaText">2015</span>
+  <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
+  <div class="ms-ListItem-actions">
+  </div>
+</div>
+
+<div class="ms-ListItem is-selected is-selectable">
+  <span class="ms-ListItem-primaryText">Lewis, Lezama et al</span>
+  <span class="ms-ListItem-secondaryText">Electrochemical Studies</span>
+  <span class="ms-ListItem-tertiaryText">Contoso Publications</span>
+  <span class="ms-ListItem-metaText">2013</span>
+  <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
+  <div class="ms-ListItem-actions">
+  </div>
+</div>
+
+<div class="ms-ListItem is-selectable">
+  <span class="ms-ListItem-primaryText">Jimenez, Lezama et al</span>
+  <span class="ms-ListItem-secondaryText">Office Extensibilit</span>
+  <span class="ms-ListItem-tertiaryText">Contoso Publications</span>
+  <span class="ms-ListItem-metaText">2012</span>
+  <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
+  <div class="ms-ListItem-actions">
+  </div>
+</div>
+
+
+<div class="ms-ListItem is-selectable">
+  <span class="ms-ListItem-primaryText">Davids Tristan</span>
+  <span class="ms-ListItem-secondaryText">Word Programming</span>
+  <span class="ms-ListItem-tertiaryText">Contoso Publications</span>
+  <span class="ms-ListItem-metaText">2010</span>
+  <div class="ms-ListItem-selectionTarget js-toggleSelection"></div>
+  <div class="ms-ListItem-actions">
+  </div>
+</div>
+
 </ul>
 
 <br>

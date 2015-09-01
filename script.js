@@ -12,6 +12,7 @@ Office.initialize = function (reason) {
      $(".ms-Pivot").Pivot();
      $(".ms-SearchBox").SearchBox();
      $(".ms-Dropdown").Dropdown();
+     $(".ms-ListItem").ListItem();
 };
 
 // Reads data from current document selection and displays a notification
