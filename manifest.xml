@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OfficeApp xmlns=
-  "http://schemas.microsoft.com/office/appforoffice/1.1"
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:type="TaskPaneApp">
   <Id>674955fc-238d-4fc6-95a9-d3b0ac0ea1d9</Id>
@@ -17,7 +16,7 @@
     <Host Name = "Database" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost/taskpane/index.html" />
+    <SourceLocation DefaultValue="https://localhost:8443/taskpane/index.html" />
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
