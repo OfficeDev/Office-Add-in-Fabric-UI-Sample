@@ -3,7 +3,7 @@ This is a Word add-in task pane sample that leverages [Office UI Fabric](https:/
 
 For general information about using Fabric, see [Using Office UI Fabric in Office Add-Ins](https://msdn.microsoft.com/EN-US/library/office/mt450443.aspx). 
 
-![Screenshot of running sample](\Images\citationssample.png)
+![Screenshot of running sample](/Images/citationssample.png)
 
 ## Try it out
 ### Get web application running
