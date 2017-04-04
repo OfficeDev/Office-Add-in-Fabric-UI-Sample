@@ -35,7 +35,7 @@ The simplest way to deploy and test your add-in is to copy the files to a networ
     
 ### Test add-in in Word
 
-    a.  In the **Insert tab** in Excel 2016, choose **My Add-ins**. 
+    a.  In the **Insert tab** in Word 2016, choose **My Add-ins**. 
     
     b.  In the **Office Add-ins** dialog box, choose **Shared Folder**.
     
