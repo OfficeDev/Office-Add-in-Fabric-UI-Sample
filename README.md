@@ -41,3 +41,6 @@ The simplest way to deploy and test your add-in is to copy the files to a networ
     
     c.  Choose **Citations Sample**>**Insert**. The add-in opens in a task pane and shows the add-in. 
       
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
