@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: Word add-in Fabric UI Sample
+  path: ''
+  description: This is a Word task pane add-in sample that uses Office UI Fabric. It inserts citations into the body of the document using the Office.js APIs.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: jthake
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Word
+    scenarios: []
