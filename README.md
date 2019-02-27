@@ -1,3 +1,18 @@
+---
+topic: sample
+products:
+- Word
+- Office 365
+languages:
+- CSS
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  - Office UI Fabric
+  createdDate: 8/28/2015 10:02:10 AM
+---
 # Office Add-in Fabric UI Sample
 This is a Word task pane add-in sample that uses [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric). It inserts citations into the body of the document using the Office.js APIs.
 
