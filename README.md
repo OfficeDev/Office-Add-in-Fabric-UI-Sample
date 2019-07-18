@@ -1,16 +1,17 @@
 ---
 topic: sample
 products:
-- Word
-- Office 365
+- office-word
+- office-365
 languages:
-- CSS
-- JavaScript
+- javascript
 extensions:
   contentType: samples
   technologies:
   - Add-ins
   - Office UI Fabric
+  platforms:
+  - CSS
   createdDate: 8/28/2015 10:02:10 AM
 ---
 # Office Add-in Fabric UI Sample
